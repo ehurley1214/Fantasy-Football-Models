@@ -11,7 +11,7 @@ rushYards <- .1
 receivingYards <- .1
 rushTD <- 6
 receivingTD <- 6
-passYards <- 1/25
+passYards <- 1/20
 passTD <- 6
 fmb <- -2
 int <- -2
